@@ -15,7 +15,7 @@ html {
   height: 100%;
   width: 100%;
   padding: 16px;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
   display: grid;
   grid-template: 80px 80px 400px 80px / 250px 750px;
   gap: 15px;
